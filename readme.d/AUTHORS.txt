@@ -1,0 +1,36 @@
+This little interactive piece wouldn't have been what it is without the Creative Commons initiative and the skilled artists supporting it.
+
+Every visuals of the game expect the following one are licensed under CC BY-NC 3.0 license and were made by the one who crafted this very ascii text file, ResponSyS (a.k.a. @ResponSyS_ on the Twitter).
+http://creativecommons.org/licenses/by-nc/3.0/	
+
+Credits:
+	Made using SFML 1.6 C binding by Laurent Gomilla: http://www.sfml-dev.org/license.php
+		License can be found in the file LICENSE.SFML.txt
+	
+	Font:
+		"Isabella", John Stracke, GNU LGPL 
+		http://www.thibault.org/fonts/
+		Related-files are in the folder font/
+
+	Visual:
+		Rose: 
+			Sarah Laval, Flickr, CC-BY 2.0
+			http://www.flickr.com/photos/smercury98/2268896627/
+	Musics:
+		Intro:
+			"Dance of the Gypsy-Instrumental", Jeris, CCMixter, CC BY-NC 3.0
+			http://ccmixter.org/files/VJ_Memes/35286
+		Game:
+			"Female Sacred", imaginario, CCMixter, CC BY-NC 3.0
+			http://ccmixter.org/files/daniloprates/36691
+
+			"Fuego", Robin Schmitz, CCMixter, CC BY 3.0
+			http://ccmixter.org/files/souldescendant/32968
+			
+			"Dance of the Gypsy-Instrumental", Jeris, CCMixter, CC BY-NC 3.0
+			http://ccmixter.org/files/VJ_Memes/35286
+			Modified by ResponSyS
+	
+	Everything else:
+		ResponSyS
+

@@ -1,0 +1,72 @@
+Juan impression
+Juan girl
+Juan Carlos
+
+Juan
+
+It's the last day of school. You have to hang out with her.
+It's the last day of school. You wear your best costume.
+It's the last day of school. Do your best, Juan.
+
+Objective:
+	Game over if:
+		Others see you tap dancing.
+		Nobody sees you tap dancing [for some time].
+	You lose life if:
+		You don't dance while Carlita only is watching you.
+		[Nobody sees you tap dancing]
+	You gain points if:
+		You dance while Carlita only is watching you.
+
+Execution:
+	top-down/slighty iso view
+	Juan stands in the middle of the screen
+	Other people are randomly placed on the environment
+	Carlita is in front of you, sitting on a bench
+	
+	You don't get to move at all
+	It only uses Juan button
+		if you press that Juan and unique button, you enable the only one possible action you can make:
+			tap-dance for the beautiful eyes of Carlita
+	
+	Quite often, Carlita and others will switch their focus and look elsewhere
+	
+	Score isn't displayed, but an arrow helps you:
+		turns from red to black when in danger, downward
+		turns green when it's all good m8, upward
+		disappears when the situation is stable
+
+Theory:
+	Score is hidden because love can't be even approximatively quantified. Does she love me? Am I impressing her? Who knows.
+	Dancing while she don't watch you is not motivating enough, but you could dance forever is she is there, admiring your dary feet.
+
+Visual resources:
+	one fullscreen-wide playground
+	one fullscreen-wide playground collision mask
+	2 top-down viewed Juan sprites:
+		2 for Juan still, exhausted
+		2 for each leg moving while tap dancing
+	2 top-down viewed mere pupil sprites:
+		2 for each leg moving
+	2 top-down viewed Carlota sprites:
+		2 for each leg moving
+	juan font for the title and retry screen
+	A hat and a rose for some themed anim?
+
+
+Credits:
+	Visuals:
+		Rose: 
+			http://www.flickr.com/photos/smercury98/2268896627/
+			Sarah Laval, Flickr, CC-BY 2.0
+	Musics:
+		Intro:
+			http://ccmixter.org/files/VJ_Memes/35286
+			"Dance of the Gypsy-Instrumental", Jeris, CCMixter, CC BY-NC 3.0
+		Game:
+			http://ccmixter.org/files/daniloprates/36691
+			"Female Sacred", imaginario, CCMixter, CC BY-NC 3.0
+
+			http://ccmixter.org/files/souldescendant/32968
+			"Fuego", Robin Schmitz, CCMixter, CC BY 3.0
+
